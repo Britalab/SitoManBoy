@@ -1,11 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-
 <resources>
-    <string name="app_name">Sito Man Boy</string>
-
-    <string name="crear_repuesto">Create spare part</string>
-    <string name="crear_sucursal">Create branch</string>
-    <string name="ingresar_producto">Add product to branch</string>
-    <string name="buscar_stock">Search stock</string>
+    <string name="app_name">Prueba Dos</string>
+    <string name="crear_repuesto">Create Spare Part</string>
+    <string name="crear_sucursal">Create Branch</string>
+    <string name="ingresar_producto_sucursal">Add Product to Branch</string>
+    <string name="buscar_stock_repuestos">Search Spare Part Stock</string>
+    <string name="serie">Serial Number</string>
+    <string name="descripcion">Description</string>
+    <string name="stock">Stock</string>
+    <string name="guardar">Save</string>
+    <string name="nombre">Name</string>
+    <string name="direccion">Address</string>
+    <string name="seleccione_sucursal">Select Branch</string>
+    <string name="seleccione_repuesto">Select Spare Part</string>
+    <string name="ingresar_modificar_stock">Add/Modify Stock</string>
+    <string name="eliminar_producto_sucursal">Delete Product from Branch</string>
+    <string name="buscar_por_serie_o_descripcion">Search by serial number or description</string>
+    <string name="buscar">Search</string>
 </resources>
-
