@@ -1,5 +1,6 @@
 package com.example.pruebados
 
+import android.annotation.SuppressLint
 import android.os.Bundle
 import androidx.activity.compose.setContent
 import androidx.activity.viewModels
@@ -59,6 +60,7 @@ fun NavegacionApp(modelo: RepuestoViewModel) {
     }
 }
 
+@SuppressLint("LocalContextConfigurationRead")
 @Composable
 fun PantallaPrincipal(controladorNavegacion: NavController) {
     val context = LocalContext.current
