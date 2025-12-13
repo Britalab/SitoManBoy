@@ -1,8 +1,19 @@
 <resources>
-    <string name="app_name">SitoManBoy</string>
+    <string name="app_name">Prueba Dos</string>
     <string name="crear_repuesto">Crear repuesto</string>
     <string name="crear_sucursal">Crear sucursal</string>
-    <string name="ingresar_producto">Ingresar producto a sucursal</string>
-    <string name="buscar_stock">Buscar stock de repuestos</string>
-
+    <string name="ingresar_producto_sucursal">Ingresar producto a sucursal</string>
+    <string name="buscar_stock_repuestos">Buscar stock de repuestos</string>
+    <string name="serie">Serie</string>
+    <string name="descripcion">Descripción</string>
+    <string name="stock">Stock</string>
+    <string name="guardar">Guardar</string>
+    <string name="nombre">Nombre</string>
+    <string name="direccion">Dirección</string>
+    <string name="seleccione_sucursal">Seleccione Sucursal</string>
+    <string name="seleccione_repuesto">Seleccione Repuesto</string>
+    <string name="ingresar_modificar_stock">Ingresar/Modificar Stock</string>
+    <string name="eliminar_producto_sucursal">Eliminar Producto de Sucursal</string>
+    <string name="buscar_por_serie_o_descripcion">Buscar por serie o descripción</string>
+    <string name="buscar">Buscar</string>
 </resources>
