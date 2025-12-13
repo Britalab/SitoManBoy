@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SitoManBoy</string>
+    <string name="crear_repuesto">Crear repuesto</string>
+    <string name="crear_sucursal">Crear sucursal</string>
+    <string name="ingresar_producto">Ingresar producto a sucursal</string>
+    <string name="buscar_stock">Buscar stock de repuestos</string>
+
+</resources>
