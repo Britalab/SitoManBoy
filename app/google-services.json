@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189138539708",
+    "project_id": "sitomanboy-d0872",
+    "storage_bucket": "sitomanboy-d0872.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189138539708:android:740f01a3f66d7dbfaf2cb9",
+        "android_client_info": {
+          "package_name": "com.example.pruebados"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgkUpMJOol1LlAJs7RclXu74ye2FJS46U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
